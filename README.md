@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://officialmd.github.io" target="_blank">  
-    <img alt="Logo" src="https://officialmd.github.io/packages/images/pfp.jpg" width="50" />
+    <img alt="Logo" src="https://raw.githubusercontent.com/officialmd/MDsite/8e9fcf00b87aaa9ba82f2187506b858a98bf4fea/packages/images/logo3.ico" width="50" />
   </a>
 </div>
 <h1 align="center">

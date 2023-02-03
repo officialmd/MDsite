@@ -586,65 +586,6 @@ img {
   color: var(--first-color);
 }
 
-/*==================== statistics  ====================*/
-
-.statistic__row .content {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem 3rem;
-}
-
-.statistic__row .content .statistic__circle {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2rem;
-}
-
-.circular {
-  height: 120px;
-  width: 120px;
-  position: relative;
-  margin-bottom: -10px;
-}
-
-.circular .inner {
-  position: absolute;
-  z-index: 6;
-  top: 50%;
-  left: 50%;
-  margin: -40px 0 0 -40px;
-}
-
-.circular .number {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 10;
-  font-size: 18px;
-  font-weight: 500;
-  color: rgb(153, 153, 153);
-  font-weight: 700;
-  font-size: 1.3rem;
-}
-
-.circular .bar {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  -webkit-border-radius: 100%;
-  clip: rect(0px, 100px, 100px, 50px);
-  transform: rotate(250deg);
-  border-width: 9px;
-  border-style: solid;
-  border-color: #43b5cb;
-}
-
-.round .bar {
-  clip: unset;
-}
 
 /*==================== SKILLS ====================*/
 .tech__row {
@@ -780,25 +721,6 @@ img {
   color: #43b5cb;
 }
 
-/*==================== github stats ====================*/
-
-.github-images {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-bottom: 30px;
-}
-.github-images img {
-  width: 25%;
-}
-
-.calendar {
-  width: 85%;
-  margin: auto;
-  padding: 4rem;
-  border: none !important;
-  padding: 0;
-}
 
 /*==================== projects ====================*/
 
